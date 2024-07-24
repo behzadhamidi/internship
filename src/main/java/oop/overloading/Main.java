@@ -1,6 +1,4 @@
-package overloading;
-
-import overloading.EquationSolver;
+package oop.overloading;
 
 public class Main {
     public static void main(String[] args) {
